@@ -1,0 +1,27 @@
+.paginator__page__total {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: right;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.75em;
+}
+
+.content__wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
+    background: #E5EFF1;
+    padding-bottom: 10em;
+}
+
+.content__photoList {
+    position: relative;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}

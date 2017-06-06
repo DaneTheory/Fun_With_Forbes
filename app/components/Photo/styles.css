@@ -1,0 +1,35 @@
+.photoItem img {
+    position: relative;
+    width: 100%;
+}
+
+@media screen and (min-width: 300px) {
+    .photoItem {
+        margin: 0;
+        width: 100%;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+}
+
+@media screen and (min-width: 720px) {
+
+    .photoItem {
+        margin: 0;
+        width: 100%;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+}
+
+@media screen and (min-width: 960px) {
+
+    .photoItem {
+        margin: 0;
+        width: 100%;
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+    }
+
+}
